@@ -38,13 +38,9 @@ Ensure the following are installed:
     npm install
     ```
 ---
-   the main file is data.js 
-   for excuting run :
-   ```bash
-    node xlsx.js  
----
 
-
-Install all dependencies with:
+The main file is data.js 
+for excuting run :
 ```bash
 npm install
+ node xlsx.js  
