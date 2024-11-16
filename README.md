@@ -29,8 +29,8 @@ Ensure the following are installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/web-scraping-app.git
-    cd web-scraping-app
+    git clone https://github.com/khodehm/xlsx.git
+    cd xlsx
     ```
 
 2. Install dependencies:
