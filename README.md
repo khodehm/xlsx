@@ -37,7 +37,11 @@ Ensure the following are installed:
     ```bash
     npm install
     ```
-
+---
+   the main file is data.js 
+   for excuting run :
+   ```bash
+    node xlsx.js  
 ---
 
 
